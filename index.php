@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://bit.ly/4k2toTa">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fontwesome/4.7.0/css/font-awesome.min.css">
-    <title>Cadastro de Curriculos</title>
+    <title>VaudeVilla</title>
     <meta http-equiv="refresh" content="1; url=Controller/Navegacao.php">
 </head>
 
