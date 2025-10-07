@@ -96,7 +96,7 @@ class Usuario
         '" . $this->cpf . "',
         '" . $this->dataNascimento . "',
         '" . $this->email . "',
-        '" . $this->endereco . "'
+        '" . $this->endereco . "',
         '" . $this->senha . "'
         )";
 

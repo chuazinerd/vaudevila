@@ -28,7 +28,7 @@
             <i class="w3-xxlarge fa fa-drivers-license"></i>
         </div>
         <div class="w3-rest">
-            <input class="w3-input w3-border w3-round-large" name="txtCPF"
+            <input class="w3-input w3-border w3-round-large" name="txtCpf"
                 type="number" placeholder="CPF: 33333333333">
         </div>
     </div>
